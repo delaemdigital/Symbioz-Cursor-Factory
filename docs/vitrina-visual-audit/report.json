@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-09-05T18:15:12.914Z",
+  "generatedAt": "2026-09-05T20:20:52.261Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
-    "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/home.png",
+    "visual-audit/desktop-1440/electronics--store.png",
+    "visual-audit/desktop-1440/premium-tech--store.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
-    "visual-audit/desktop-1440/farm--store.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/cars--store.png",
-    "visual-audit/desktop-1440/farm--seller-panel.png",
+    "visual-audit/desktop-1440/farm--store.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/cars--seller-panel.png",
+    "visual-audit/desktop-1440/farm--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/auto-parts--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
-    "visual-audit/desktop-1440/tires--store.png",
+    "visual-audit/desktop-1440/farm--buyer-account.png",
     "visual-audit/desktop-1440/cosmetics--store.png",
     "visual-audit/desktop-1440/auto-parts--buyer-account.png",
-    "visual-audit/desktop-1440/tires--seller-panel.png",
+    "visual-audit/desktop-1440/tires--store.png",
     "visual-audit/desktop-1440/cosmetics--seller-panel.png",
     "visual-audit/desktop-1440/fashion--store.png",
-    "visual-audit/desktop-1440/tires--buyer-account.png",
+    "visual-audit/desktop-1440/tires--seller-panel.png",
     "visual-audit/desktop-1440/fashion--seller-panel.png",
     "visual-audit/desktop-1440/cosmetics--buyer-account.png",
+    "visual-audit/desktop-1440/tires--buyer-account.png",
     "visual-audit/desktop-1440/shoes--store.png",
-    "visual-audit/desktop-1440/jewelry--store.png",
     "visual-audit/desktop-1440/fashion--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--store.png",
     "visual-audit/desktop-1440/shoes--seller-panel.png",
     "visual-audit/desktop-1440/jewelry--seller-panel.png",
     "visual-audit/desktop-1440/kids--store.png",
     "visual-audit/desktop-1440/kids--seller-panel.png",
-    "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/shoes--buyer-account.png",
+    "visual-audit/desktop-1440/jewelry--buyer-account.png",
     "visual-audit/desktop-1440/home--store.png",
-    "visual-audit/desktop-1440/tableware--store.png",
     "visual-audit/desktop-1440/kids--buyer-account.png",
+    "visual-audit/desktop-1440/tableware--store.png",
     "visual-audit/desktop-1440/home--seller-panel.png",
     "visual-audit/desktop-1440/tableware--seller-panel.png",
     "visual-audit/desktop-1440/lighting--store.png",
     "visual-audit/desktop-1440/lighting--seller-panel.png",
-    "visual-audit/desktop-1440/tableware--buyer-account.png",
     "visual-audit/desktop-1440/home--buyer-account.png",
+    "visual-audit/desktop-1440/tableware--buyer-account.png",
     "visual-audit/desktop-1440/plumbing--store.png",
-    "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/lighting--buyer-account.png",
+    "visual-audit/desktop-1440/doors--store.png",
     "visual-audit/desktop-1440/plumbing--seller-panel.png",
     "visual-audit/desktop-1440/doors--seller-panel.png",
     "visual-audit/desktop-1440/building--store.png",
@@ -58,17 +58,17 @@
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
     "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/tools--store.png",
-    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
-    "visual-audit/desktop-1440/flowers--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--seller-panel.png",
     "visual-audit/desktop-1440/pets--store.png",
     "visual-audit/desktop-1440/pets--seller-panel.png",
-    "visual-audit/desktop-1440/flowers--buyer-account.png",
     "visual-audit/desktop-1440/tools--buyer-account.png",
+    "visual-audit/desktop-1440/flowers--buyer-account.png",
     "visual-audit/desktop-1440/sport--store.png",
-    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/pets--buyer-account.png",
+    "visual-audit/desktop-1440/books--store.png",
     "visual-audit/desktop-1440/sport--seller-panel.png",
     "visual-audit/desktop-1440/books--seller-panel.png",
     "visual-audit/desktop-1440/gifts--store.png",
@@ -79,8 +79,8 @@
     "visual-audit/desktop-1440/gifts--buyer-account.png",
     "visual-audit/desktop-1440/bakery--store.png",
     "visual-audit/desktop-1440/coffee--seller-panel.png",
-    "visual-audit/desktop-1440/bakery--seller-panel.png",
     "visual-audit/desktop-1440/meat-fish--store.png",
+    "visual-audit/desktop-1440/bakery--seller-panel.png",
     "visual-audit/desktop-1440/meat-fish--seller-panel.png",
     "visual-audit/desktop-1440/coffee--buyer-account.png",
     "visual-audit/desktop-1440/bakery--buyer-account.png",
@@ -120,8 +120,8 @@
     "visual-audit/mobile-390/cosmetics--seller-panel.png",
     "visual-audit/mobile-390/fashion--seller-panel.png",
     "visual-audit/mobile-390/tires--buyer-account.png",
-    "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/cosmetics--buyer-account.png",
+    "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/shoes--store.png",
     "visual-audit/mobile-390/jewelry--store.png",
     "visual-audit/mobile-390/kids--store.png",
@@ -135,8 +135,8 @@
     "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/lighting--store.png",
     "visual-audit/mobile-390/home--seller-panel.png",
-    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
+    "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/tableware--buyer-account.png",
     "visual-audit/mobile-390/lighting--buyer-account.png",
@@ -168,14 +168,14 @@
     "visual-audit/mobile-390/books--buyer-account.png",
     "visual-audit/mobile-390/gifts--buyer-account.png",
     "visual-audit/mobile-390/coffee--store.png",
-    "visual-audit/mobile-390/meat-fish--store.png",
     "visual-audit/mobile-390/bakery--store.png",
+    "visual-audit/mobile-390/meat-fish--store.png",
     "visual-audit/mobile-390/coffee--seller-panel.png",
-    "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/bakery--seller-panel.png",
+    "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/coffee--buyer-account.png",
-    "visual-audit/mobile-390/meat-fish--buyer-account.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
+    "visual-audit/mobile-390/meat-fish--buyer-account.png",
     "visual-audit/mobile-390/food-delivery--store.png",
     "visual-audit/mobile-390/optics--store.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
@@ -198,7 +198,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/auto-parts--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=auto-parts",
+      "finalUrl": "https://delaemdigital.com/buyer?store=auto-parts",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -206,13 +206,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 175.1999999999971
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -229,7 +224,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/auto-parts--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/auto-parts/manage",
+      "finalUrl": "https://delaemdigital.com/demo/auto-parts/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -241,7 +236,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 223.90000000000873
+          "time": 87.69999999999709
         }
       ],
       "nextErrorOverlay": false,
@@ -260,7 +255,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/auto-parts--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/auto-parts",
+      "finalUrl": "https://delaemdigital.com/demo/auto-parts",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -268,19 +263,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 286.59999999999127
+          "time": 237.39999999999418
         },
         {
-          "value": 0.01555896829487365,
-          "time": 354.09999999999127
-        },
-        {
-          "value": 0.04663811728395062,
-          "time": 367.29999999998836
+          "value": 0.04801282793209877,
+          "time": 268.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -299,7 +290,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/b2b-wholesale--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=b2b-wholesale",
+      "finalUrl": "https://delaemdigital.com/buyer?store=b2b-wholesale",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -311,13 +302,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 131.8000000000029
+          "time": 100.10000000000582
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -332,7 +321,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/b2b-wholesale--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale/manage",
+      "finalUrl": "https://delaemdigital.com/demo/b2b-wholesale/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -344,13 +333,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 126.5
+          "time": 94.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -365,7 +352,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/b2b-wholesale--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale",
+      "finalUrl": "https://delaemdigital.com/demo/b2b-wholesale",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -373,25 +360,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 299.8999999999942
+          "time": 258.3999999999942
         },
         {
-          "value": 0.051291264904634454,
-          "time": 342.6999999999971
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 349.3999999999942
+          "value": 0.04801282793209877,
+          "time": 282.8999999999942
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -406,7 +387,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/bakery--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=bakery",
+      "finalUrl": "https://delaemdigital.com/buyer?store=bakery",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -418,12 +399,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 169.5
+          "time": 114.10000000000582
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -441,7 +421,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/bakery--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/bakery/manage",
+      "finalUrl": "https://delaemdigital.com/demo/bakery/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -453,12 +433,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 147.39999999999418
+          "time": 127.90000000000873
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -476,7 +455,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/bakery--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/bakery",
+      "finalUrl": "https://delaemdigital.com/demo/bakery",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -484,24 +463,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 252.8000000000029
+          "time": 227.20000000001164
         },
         {
-          "value": 0.051291264904634454,
-          "time": 294.6999999999971
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 307.3000000000029
+          "value": 0.04801282793209877,
+          "time": 253
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -519,7 +493,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/books--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=books",
+      "finalUrl": "https://delaemdigital.com/buyer?store=books",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -531,7 +505,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 184.89999999999418
+          "time": 72.69999999999709
         }
       ],
       "nextErrorOverlay": false,
@@ -554,7 +528,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/books--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/books/manage",
+      "finalUrl": "https://delaemdigital.com/demo/books/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -566,7 +540,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 189.40000000000873
+          "time": 87.69999999999709
         }
       ],
       "nextErrorOverlay": false,
@@ -589,7 +563,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/books--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/books",
+      "finalUrl": "https://delaemdigital.com/demo/books",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -597,19 +571,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 305.3000000000029
+          "time": 373.8999999999942
         },
         {
-          "value": 0.051291264904634454,
-          "time": 344.5
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 357.59999999999127
+          "value": 0.04801282793209877,
+          "time": 404.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -632,7 +602,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/building--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=building",
+      "finalUrl": "https://delaemdigital.com/buyer?store=building",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -644,7 +614,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 136.10000000000582
+          "time": 101.30000000000291
         }
       ],
       "nextErrorOverlay": false,
@@ -667,7 +637,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/building--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/building/manage",
+      "finalUrl": "https://delaemdigital.com/demo/building/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -679,7 +649,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 140.6999999999971
+          "time": 112.69999999999709
         }
       ],
       "nextErrorOverlay": false,
@@ -702,7 +672,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/building--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/building",
+      "finalUrl": "https://delaemdigital.com/demo/building",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -710,19 +680,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 253.3000000000029
+          "time": 270.6000000000058
         },
         {
-          "value": 0.051291264904634454,
-          "time": 299.1000000000058
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 311.5
+          "value": 0.04801282793209877,
+          "time": 302.8000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -745,7 +711,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/cars--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=cars",
+      "finalUrl": "https://delaemdigital.com/buyer?store=cars",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -753,8 +719,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 148.59999999999127
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -771,7 +742,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/cars--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cars/manage",
+      "finalUrl": "https://delaemdigital.com/demo/cars/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -783,7 +754,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 131
+          "time": 139.89999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -802,7 +773,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/cars--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cars",
+      "finalUrl": "https://delaemdigital.com/demo/cars",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -814,11 +785,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 286.29999999998836
+          "time": 259.59999999999127
         },
         {
           "value": 0.04801282793209877,
-          "time": 329.8999999999942
+          "time": 287.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -837,7 +808,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/coffee--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=coffee",
+      "finalUrl": "https://delaemdigital.com/buyer?store=coffee",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -849,7 +820,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 138.39999999999418
+          "time": 101.89999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -872,7 +843,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/coffee--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/coffee/manage",
+      "finalUrl": "https://delaemdigital.com/demo/coffee/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -880,13 +851,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 136.59999999999127
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -907,7 +873,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/coffee--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/coffee",
+      "finalUrl": "https://delaemdigital.com/demo/coffee",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -919,11 +885,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 240.89999999999418
+          "time": 240.6999999999971
         },
         {
           "value": 0.04801282793209877,
-          "time": 316.29999999998836
+          "time": 265
         }
       ],
       "nextErrorOverlay": false,
@@ -946,7 +912,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/cosmetics--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=cosmetics",
+      "finalUrl": "https://delaemdigital.com/buyer?store=cosmetics",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -958,7 +924,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 137.3000000000029
+          "time": 90.60000000000582
         }
       ],
       "nextErrorOverlay": false,
@@ -977,7 +943,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/cosmetics--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cosmetics/manage",
+      "finalUrl": "https://delaemdigital.com/demo/cosmetics/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -989,7 +955,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 154.10000000000582
+          "time": 95.39999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -1008,7 +974,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/cosmetics--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cosmetics",
+      "finalUrl": "https://delaemdigital.com/demo/cosmetics",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1020,11 +986,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 241.09999999999127
+          "time": 250
         },
         {
           "value": 0.04801282793209877,
-          "time": 282.3999999999942
+          "time": 284.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -1043,7 +1009,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/doors--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=doors",
+      "finalUrl": "https://delaemdigital.com/buyer?store=doors",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1051,8 +1017,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 133.59999999999127
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -1073,7 +1044,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/doors--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/doors/manage",
+      "finalUrl": "https://delaemdigital.com/demo/doors/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1085,7 +1056,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 132.8000000000029
+          "time": 95.5
         }
       ],
       "nextErrorOverlay": false,
@@ -1108,7 +1079,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/doors--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/doors",
+      "finalUrl": "https://delaemdigital.com/demo/doors",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1116,19 +1087,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 290.5
+          "time": 244.39999999999418
         },
         {
-          "value": 0.051291264904634454,
-          "time": 328.59999999999127
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 337.09999999999127
+          "value": 0.04801282793209877,
+          "time": 276.09999999999127
         }
       ],
       "nextErrorOverlay": false,
@@ -1151,7 +1118,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/electronics--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=electronics",
+      "finalUrl": "https://delaemdigital.com/buyer?store=electronics",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1163,7 +1130,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 188.79999999999563
+          "time": 149.39999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -1182,7 +1149,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/electronics--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/electronics/manage",
+      "finalUrl": "https://delaemdigital.com/demo/electronics/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1194,7 +1161,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 181.09999999999854
+          "time": 109.90000000000873
         }
       ],
       "nextErrorOverlay": false,
@@ -1213,7 +1180,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/electronics--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/electronics",
+      "finalUrl": "https://delaemdigital.com/demo/electronics",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1225,11 +1192,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 1128.4000000000015
+          "time": 1459.9000000000087
         },
         {
           "value": 0.04801282793209877,
-          "time": 1177.5
+          "time": 1482.800000000003
         }
       ],
       "nextErrorOverlay": false,
@@ -1248,7 +1215,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/farm--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=farm",
+      "finalUrl": "https://delaemdigital.com/buyer?store=farm",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1256,8 +1223,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 93.80000000000291
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -1274,7 +1246,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/farm--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/farm/manage",
+      "finalUrl": "https://delaemdigital.com/demo/farm/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1282,13 +1254,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 126.69999999999709
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -1305,7 +1272,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/farm--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/farm",
+      "finalUrl": "https://delaemdigital.com/demo/farm",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1313,19 +1280,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 254.8000000000029
+          "time": 346.6999999999971
         },
         {
-          "value": 0.051291264904634454,
-          "time": 292.3000000000029
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 299.6999999999971
+          "value": 0.04801282793209877,
+          "time": 380.1999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -1344,7 +1307,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/fashion--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=fashion",
+      "finalUrl": "https://delaemdigital.com/buyer?store=fashion",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1352,15 +1315,12 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 136.89999999999418
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1375,7 +1335,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/fashion--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/fashion/manage",
+      "finalUrl": "https://delaemdigital.com/demo/fashion/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1387,11 +1347,13 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 143.3000000000029
+          "time": 139.39999999999418
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1406,7 +1368,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/fashion--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/fashion",
+      "finalUrl": "https://delaemdigital.com/demo/fashion",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1414,23 +1376,21 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 233.39999999999418
+          "time": 239.8000000000029
         },
         {
-          "value": 0.051291264904634454,
-          "time": 270.09999999999127
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 276.59999999999127
+          "value": 0.04801282793209877,
+          "time": 273.70000000001164
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1445,7 +1405,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/flowers--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=flowers",
+      "finalUrl": "https://delaemdigital.com/buyer?store=flowers",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1453,13 +1413,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 161.1999999999971
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -1480,7 +1435,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/flowers--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/flowers/manage",
+      "finalUrl": "https://delaemdigital.com/demo/flowers/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1492,7 +1447,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 132.90000000000873
+          "time": 107.60000000000582
         }
       ],
       "nextErrorOverlay": false,
@@ -1515,7 +1470,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/flowers--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/flowers",
+      "finalUrl": "https://delaemdigital.com/demo/flowers",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1523,19 +1478,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 318.1000000000058
+          "time": 229.8000000000029
         },
         {
-          "value": 0.01555896829487365,
-          "time": 344.3000000000029
-        },
-        {
-          "value": 0.04663811728395062,
-          "time": 360.6000000000058
+          "value": 0.04801282793209877,
+          "time": 257.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -1558,7 +1509,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/food-delivery--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=food-delivery",
+      "finalUrl": "https://delaemdigital.com/buyer?store=food-delivery",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1570,14 +1521,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 156.70000000001164
+          "time": 110.30000000000291
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1592,7 +1540,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/food-delivery--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/food-delivery/manage",
+      "finalUrl": "https://delaemdigital.com/demo/food-delivery/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1604,14 +1552,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 138.29999999998836
+          "time": 94.10000000000582
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1626,7 +1571,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/food-delivery--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/food-delivery",
+      "finalUrl": "https://delaemdigital.com/demo/food-delivery",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1634,26 +1579,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 231.8000000000029
+          "time": 237.20000000001164
         },
         {
-          "value": 0.01555896829487365,
-          "time": 279.5
-        },
-        {
-          "value": 0.04663811728395062,
-          "time": 292.8000000000029
+          "value": 0.04801282793209877,
+          "time": 265.40000000000873
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -1668,7 +1606,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/furniture--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=furniture",
+      "finalUrl": "https://delaemdigital.com/buyer?store=furniture",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1680,7 +1618,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 135.40000000000873
+          "time": 103.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1699,7 +1637,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/furniture--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/furniture/manage",
+      "finalUrl": "https://delaemdigital.com/demo/furniture/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1711,7 +1649,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 127.69999999999709
+          "time": 97.30000000000291
         }
       ],
       "nextErrorOverlay": false,
@@ -1730,7 +1668,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/furniture--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/furniture",
+      "finalUrl": "https://delaemdigital.com/demo/furniture",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1738,19 +1676,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 255.29999999999563
+          "time": 362.3999999999942
         },
         {
-          "value": 0.051291264904634454,
-          "time": 294.8999999999942
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 304
+          "value": 0.04801282793209877,
+          "time": 382
         }
       ],
       "nextErrorOverlay": false,
@@ -1769,7 +1703,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/gifts--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=gifts",
+      "finalUrl": "https://delaemdigital.com/buyer?store=gifts",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1777,8 +1711,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 85.90000000000873
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -1799,7 +1738,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/gifts--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/gifts/manage",
+      "finalUrl": "https://delaemdigital.com/demo/gifts/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1811,7 +1750,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 132.3000000000029
+          "time": 99
         }
       ],
       "nextErrorOverlay": false,
@@ -1834,7 +1773,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/gifts--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/gifts",
+      "finalUrl": "https://delaemdigital.com/demo/gifts",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1842,19 +1781,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 234.90000000000873
+          "time": 260
         },
         {
-          "value": 0.051291264904634454,
-          "time": 274
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 287
+          "value": 0.04801282793209877,
+          "time": 295.59999999999127
         }
       ],
       "nextErrorOverlay": false,
@@ -1877,7 +1812,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/home--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=home",
+      "finalUrl": "https://delaemdigital.com/buyer?store=home",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1889,7 +1824,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 157.3000000000029
+          "time": 100.70000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -1912,7 +1847,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/home--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/home/manage",
+      "finalUrl": "https://delaemdigital.com/demo/home/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1924,7 +1859,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 145.39999999999418
+          "time": 107.10000000000582
         }
       ],
       "nextErrorOverlay": false,
@@ -1947,7 +1882,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/home--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/home",
+      "finalUrl": "https://delaemdigital.com/demo/home",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1959,15 +1894,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 265.8000000000029
+          "time": 361.6999999999971
         },
         {
           "value": 0.051291264904634454,
-          "time": 305.1000000000058
+          "time": 386.09999999999127
         },
         {
           "value": 0.0005536438666449652,
-          "time": 318.90000000000873
+          "time": 399.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -1990,7 +1925,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/home.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/",
+      "finalUrl": "https://delaemdigital.com/",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -1998,19 +1933,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 1754.699999999997
+          "time": 1248
         },
         {
-          "value": 0.051291264904634454,
-          "time": 1796.0999999999985
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 1804.0999999999985
+          "value": 0.04801282793209877,
+          "time": 1272
         }
       ],
       "nextErrorOverlay": false,
@@ -2029,7 +1960,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/jewelry--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=jewelry",
+      "finalUrl": "https://delaemdigital.com/buyer?store=jewelry",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2041,11 +1972,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 141
+          "time": 105.30000000000291
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2060,7 +1995,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/jewelry--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/jewelry/manage",
+      "finalUrl": "https://delaemdigital.com/demo/jewelry/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2072,11 +2007,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 164.40000000000873
+          "time": 118.80000000000291
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2091,7 +2030,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/jewelry--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/jewelry",
+      "finalUrl": "https://delaemdigital.com/demo/jewelry",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2099,23 +2038,23 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 242
+          "time": 240.89999999999418
         },
         {
-          "value": 0.01555896829487365,
-          "time": 291.3000000000029
-        },
-        {
-          "value": 0.04663811728395062,
-          "time": 300.6000000000058
+          "value": 0.04801282793209877,
+          "time": 272.79999999998836
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2130,7 +2069,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/kids--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=kids",
+      "finalUrl": "https://delaemdigital.com/buyer?store=kids",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2142,11 +2081,13 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 137.10000000000582
+          "time": 89.69999999999709
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -2163,7 +2104,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/kids--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/kids/manage",
+      "finalUrl": "https://delaemdigital.com/demo/kids/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2175,11 +2116,13 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 131.10000000000582
+          "time": 99.89999999999418
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -2196,7 +2139,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/kids--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/kids",
+      "finalUrl": "https://delaemdigital.com/demo/kids",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2208,15 +2151,17 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 231.1999999999971
+          "time": 234.5
         },
         {
           "value": 0.04801282793209877,
-          "time": 278.8000000000029
+          "time": 262.6999999999971
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -2233,7 +2178,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/lighting--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=lighting",
+      "finalUrl": "https://delaemdigital.com/buyer?store=lighting",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2263,7 +2208,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/lighting--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/lighting/manage",
+      "finalUrl": "https://delaemdigital.com/demo/lighting/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2275,7 +2220,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 131.40000000000873
+          "time": 119.89999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -2298,7 +2243,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/lighting--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/lighting",
+      "finalUrl": "https://delaemdigital.com/demo/lighting",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2306,19 +2251,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 252.89999999999418
+          "time": 277.09999999999127
         },
         {
-          "value": 0.051291264904634454,
-          "time": 299.1000000000058
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 312.1000000000058
+          "value": 0.04801282793209877,
+          "time": 311
         }
       ],
       "nextErrorOverlay": false,
@@ -2341,7 +2282,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/meat-fish--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=meat-fish",
+      "finalUrl": "https://delaemdigital.com/buyer?store=meat-fish",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2353,7 +2294,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -2371,7 +2311,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/meat-fish--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/meat-fish/manage",
+      "finalUrl": "https://delaemdigital.com/demo/meat-fish/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2383,12 +2323,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 156
+          "time": 96
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -2406,7 +2345,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/meat-fish--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/meat-fish",
+      "finalUrl": "https://delaemdigital.com/demo/meat-fish",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2414,24 +2353,19 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 267.5
+          "time": 251.5
         },
         {
-          "value": 0.01555896829487365,
-          "time": 310.90000000000873
-        },
-        {
-          "value": 0.04663811728395062,
-          "time": 319
+          "value": 0.04801282793209877,
+          "time": 282.1000000000058
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
@@ -2449,7 +2383,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/optics--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=optics",
+      "finalUrl": "https://delaemdigital.com/buyer?store=optics",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2460,9 +2394,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2477,7 +2409,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/optics--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/optics/manage",
+      "finalUrl": "https://delaemdigital.com/demo/optics/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2489,13 +2421,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 204.10000000000582
+          "time": 130.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2510,7 +2440,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/optics--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/optics",
+      "finalUrl": "https://delaemdigital.com/demo/optics",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2522,17 +2452,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 238.6999999999971
+          "time": 258.8000000000029
         },
         {
           "value": 0.04801282793209877,
-          "time": 285.09999999999127
+          "time": 293.8999999999942
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2547,7 +2475,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/pets--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=pets",
+      "finalUrl": "https://delaemdigital.com/buyer?store=pets",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2559,7 +2487,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 131.39999999999418
+          "time": 91.10000000000582
         }
       ],
       "nextErrorOverlay": false,
@@ -2582,7 +2510,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/pets--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/pets/manage",
+      "finalUrl": "https://delaemdigital.com/demo/pets/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2594,7 +2522,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 139.59999999999127
+          "time": 110.10000000000582
         }
       ],
       "nextErrorOverlay": false,
@@ -2617,7 +2545,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/pets--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/pets",
+      "finalUrl": "https://delaemdigital.com/demo/pets",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2629,15 +2557,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 244.39999999999418
+          "time": 333.3999999999942
         },
         {
           "value": 0.051291264904634454,
-          "time": 282.8999999999942
+          "time": 353.8999999999942
         },
         {
           "value": 0.0005536438666449652,
-          "time": 295.5
+          "time": 365.79999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -2660,7 +2588,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/plumbing--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=plumbing",
+      "finalUrl": "https://delaemdigital.com/buyer?store=plumbing",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2668,8 +2596,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 88.30000000000291
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -2690,7 +2623,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/plumbing--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/plumbing/manage",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2702,7 +2635,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 195.3000000000029
+          "time": 95.80000000000291
         }
       ],
       "nextErrorOverlay": false,
@@ -2725,7 +2658,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/plumbing--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/plumbing",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2737,11 +2670,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 304
+          "time": 245.8000000000029
         },
         {
           "value": 0.04801282793209877,
-          "time": 350.1999999999971
+          "time": 276.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -2764,7 +2697,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=premium-tech",
+      "finalUrl": "https://delaemdigital.com/buyer?store=premium-tech",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2776,7 +2709,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 200.89999999999418
+          "time": 95
         }
       ],
       "nextErrorOverlay": false,
@@ -2795,7 +2728,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/premium-tech/manage",
+      "finalUrl": "https://delaemdigital.com/demo/premium-tech/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2807,7 +2740,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 171.59999999999854
+          "time": 116.5
         }
       ],
       "nextErrorOverlay": false,
@@ -2826,7 +2759,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/premium-tech--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
+      "finalUrl": "https://delaemdigital.com/demo/premium-tech",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2838,11 +2771,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 1093.0999999999985
+          "time": 1209.5
         },
         {
           "value": 0.04801282793209877,
-          "time": 1143.199999999997
+          "time": 1241.9000000000087
         }
       ],
       "nextErrorOverlay": false,
@@ -2861,7 +2794,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/shoes--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=shoes",
+      "finalUrl": "https://delaemdigital.com/buyer?store=shoes",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2869,15 +2802,14 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 181.1999999999971
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2892,7 +2824,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/shoes--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/shoes/manage",
+      "finalUrl": "https://delaemdigital.com/demo/shoes/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2904,11 +2836,15 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 170.5
+          "time": 87.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2923,7 +2859,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/shoes--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/shoes",
+      "finalUrl": "https://delaemdigital.com/demo/shoes",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2931,23 +2867,27 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.06442473218376255,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 269.8000000000029
+          "time": 288.1000000000058
         },
         {
-          "value": 0.051291264904634454,
-          "time": 321.6000000000058
+          "value": 0.01555896829487365,
+          "time": 304.1000000000058
         },
         {
-          "value": 0.0005536438666449652,
-          "time": 335
+          "value": 0.04663811728395062,
+          "time": 324
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -2962,7 +2902,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/sport--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=sport",
+      "finalUrl": "https://delaemdigital.com/buyer?store=sport",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -2970,13 +2910,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 133.6999999999971
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -2997,7 +2932,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/sport--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/sport/manage",
+      "finalUrl": "https://delaemdigital.com/demo/sport/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3009,7 +2944,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 145.8000000000029
+          "time": 88.19999999999709
         }
       ],
       "nextErrorOverlay": false,
@@ -3032,7 +2967,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/sport--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/sport",
+      "finalUrl": "https://delaemdigital.com/demo/sport",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3040,19 +2975,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 237.5
+          "time": 253
         },
         {
-          "value": 0.051291264904634454,
-          "time": 278.3999999999942
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 286.6000000000058
+          "value": 0.04801282793209877,
+          "time": 271.6999999999971
         }
       ],
       "nextErrorOverlay": false,
@@ -3075,7 +3006,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tableware--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=tableware",
+      "finalUrl": "https://delaemdigital.com/buyer?store=tableware",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3083,8 +3014,13 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
+      "cls": 0.0022276466049382716,
+      "layoutShifts": [
+        {
+          "value": 0.0022276466049382716,
+          "time": 173.8000000000029
+        }
+      ],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -3105,7 +3041,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tableware--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tableware/manage",
+      "finalUrl": "https://delaemdigital.com/demo/tableware/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3117,7 +3053,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 149.59999999999127
+          "time": 113.40000000000873
         }
       ],
       "nextErrorOverlay": false,
@@ -3140,7 +3076,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tableware--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tableware",
+      "finalUrl": "https://delaemdigital.com/demo/tableware",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3148,19 +3084,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.05407255537621769,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 257.3999999999942
+          "time": 240.6999999999971
         },
         {
-          "value": 0.051291264904634454,
-          "time": 301.8999999999942
-        },
-        {
-          "value": 0.0005536438666449652,
-          "time": 314.6999999999971
+          "value": 0.04801282793209877,
+          "time": 268.3000000000029
         }
       ],
       "nextErrorOverlay": false,
@@ -3183,7 +3115,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tires--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=tires",
+      "finalUrl": "https://delaemdigital.com/buyer?store=tires",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3191,13 +3123,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 131.89999999999418
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [],
       "pageErrors": [],
@@ -3214,7 +3141,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tires--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tires/manage",
+      "finalUrl": "https://delaemdigital.com/demo/tires/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3226,7 +3153,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 136.70000000001164
+          "time": 213.89999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -3245,7 +3172,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tires--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tires",
+      "finalUrl": "https://delaemdigital.com/demo/tires",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3257,11 +3184,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 247.89999999999418
+          "time": 329.3999999999942
         },
         {
           "value": 0.04801282793209877,
-          "time": 293.8000000000029
+          "time": 364.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3280,7 +3207,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tools--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=tools",
+      "finalUrl": "https://delaemdigital.com/buyer?store=tools",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3288,13 +3215,8 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.0022276466049382716,
-      "layoutShifts": [
-        {
-          "value": 0.0022276466049382716,
-          "time": 146.40000000000873
-        }
-      ],
+      "cls": 0,
+      "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 429 ()",
@@ -3315,7 +3237,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tools--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tools/manage",
+      "finalUrl": "https://delaemdigital.com/demo/tools/manage",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3327,7 +3249,7 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 229.3000000000029
+          "time": 79.30000000000291
         }
       ],
       "nextErrorOverlay": false,
@@ -3350,7 +3272,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tools--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tools",
+      "finalUrl": "https://delaemdigital.com/demo/tools",
       "textLength": 975,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
@@ -3358,19 +3280,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.06442473218376255,
+      "cls": 0.05024047453703704,
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 316.79999999998836
+          "time": 233.39999999999418
         },
         {
-          "value": 0.01555896829487365,
-          "time": 365.3999999999942
-        },
-        {
-          "value": 0.04663811728395062,
-          "time": 383.59999999999127
+          "value": 0.04801282793209877,
+          "time": 266
         }
       ],
       "nextErrorOverlay": false,
@@ -3393,7 +3311,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/auto-parts--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=auto-parts",
+      "finalUrl": "https://delaemdigital.com/buyer?store=auto-parts",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3419,7 +3337,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/auto-parts--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/auto-parts/manage",
+      "finalUrl": "https://delaemdigital.com/demo/auto-parts/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3445,7 +3363,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/auto-parts--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/auto-parts",
+      "finalUrl": "https://delaemdigital.com/demo/auto-parts",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3453,15 +3371,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 279.09999999999127
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 292.8000000000029
+          "value": 0.14396254335545844,
+          "time": 265.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -3480,7 +3394,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=b2b-wholesale",
+      "finalUrl": "https://delaemdigital.com/buyer?store=b2b-wholesale",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3510,7 +3424,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale/manage",
+      "finalUrl": "https://delaemdigital.com/demo/b2b-wholesale/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3540,7 +3454,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/b2b-wholesale--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/b2b-wholesale",
+      "finalUrl": "https://delaemdigital.com/demo/b2b-wholesale",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3548,15 +3462,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 264.5
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 276.80000000001746
+          "value": 0.14396254335545844,
+          "time": 321.0999999999767
         }
       ],
       "nextErrorOverlay": false,
@@ -3579,7 +3489,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/bakery--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=bakery",
+      "finalUrl": "https://delaemdigital.com/buyer?store=bakery",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3590,11 +3500,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3609,7 +3515,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/bakery--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/bakery/manage",
+      "finalUrl": "https://delaemdigital.com/demo/bakery/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3620,11 +3526,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3639,7 +3541,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/bakery--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/bakery",
+      "finalUrl": "https://delaemdigital.com/demo/bakery",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3647,23 +3549,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 325.29999999998836
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 336.5999999999767
+          "value": 0.14396254335545844,
+          "time": 263.5
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3678,7 +3572,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/books--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=books",
+      "finalUrl": "https://delaemdigital.com/buyer?store=books",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3704,7 +3598,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/books--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/books/manage",
+      "finalUrl": "https://delaemdigital.com/demo/books/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3730,7 +3624,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/books--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/books",
+      "finalUrl": "https://delaemdigital.com/demo/books",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3742,11 +3636,11 @@
       "layoutShifts": [
         {
           "value": 0.000546702535651571,
-          "time": 307.6000000000058
+          "time": 299.8999999999942
         },
         {
           "value": 0.1434435338787292,
-          "time": 319.29999999998836
+          "time": 308.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -3765,7 +3659,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/building--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=building",
+      "finalUrl": "https://delaemdigital.com/buyer?store=building",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3776,7 +3670,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3791,7 +3689,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/building--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/building/manage",
+      "finalUrl": "https://delaemdigital.com/demo/building/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3802,7 +3700,11 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3817,7 +3719,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/building--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/building",
+      "finalUrl": "https://delaemdigital.com/demo/building",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3829,11 +3731,15 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 301.8999999999942
+          "time": 306.80000000001746
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3848,7 +3754,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/cars--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=cars",
+      "finalUrl": "https://delaemdigital.com/buyer?store=cars",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3874,7 +3780,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/cars--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cars/manage",
+      "finalUrl": "https://delaemdigital.com/demo/cars/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3900,7 +3806,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/cars--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cars",
+      "finalUrl": "https://delaemdigital.com/demo/cars",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3912,7 +3818,7 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 307.1000000000058
+          "time": 284.5
         }
       ],
       "nextErrorOverlay": false,
@@ -3931,7 +3837,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/coffee--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=coffee",
+      "finalUrl": "https://delaemdigital.com/buyer?store=coffee",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3942,11 +3848,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3961,7 +3863,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/coffee--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/coffee/manage",
+      "finalUrl": "https://delaemdigital.com/demo/coffee/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -3972,11 +3874,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -3991,7 +3889,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/coffee--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/coffee",
+      "finalUrl": "https://delaemdigital.com/demo/coffee",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4003,15 +3901,11 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 287
+          "time": 261.3999999999942
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4026,7 +3920,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/cosmetics--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=cosmetics",
+      "finalUrl": "https://delaemdigital.com/buyer?store=cosmetics",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4052,7 +3946,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/cosmetics--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cosmetics/manage",
+      "finalUrl": "https://delaemdigital.com/demo/cosmetics/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4078,7 +3972,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/cosmetics--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/cosmetics",
+      "finalUrl": "https://delaemdigital.com/demo/cosmetics",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4086,15 +3980,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 377.8999999999942
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 390.1000000000058
+          "value": 0.14396254335545844,
+          "time": 272.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -4113,7 +4003,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/doors--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=doors",
+      "finalUrl": "https://delaemdigital.com/buyer?store=doors",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4125,6 +4015,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4141,7 +4033,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/doors--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/doors/manage",
+      "finalUrl": "https://delaemdigital.com/demo/doors/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4153,6 +4045,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4169,7 +4063,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/doors--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/doors",
+      "finalUrl": "https://delaemdigital.com/demo/doors",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4181,11 +4075,13 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 309.19999999998254
+          "time": 671.9000000000233
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4202,7 +4098,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/electronics--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=electronics",
+      "finalUrl": "https://delaemdigital.com/buyer?store=electronics",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4228,7 +4124,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/electronics--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/electronics/manage",
+      "finalUrl": "https://delaemdigital.com/demo/electronics/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4254,7 +4150,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/electronics--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/electronics",
+      "finalUrl": "https://delaemdigital.com/demo/electronics",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4262,15 +4158,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 462.09999999999127
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 469.6999999999971
+          "value": 0.14396254335545844,
+          "time": 257.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4289,7 +4181,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/farm--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=farm",
+      "finalUrl": "https://delaemdigital.com/buyer?store=farm",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4315,7 +4207,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/farm--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/farm/manage",
+      "finalUrl": "https://delaemdigital.com/demo/farm/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4341,7 +4233,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/farm--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/farm",
+      "finalUrl": "https://delaemdigital.com/demo/farm",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4353,7 +4245,7 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 292.3000000000029
+          "time": 268.8999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4372,7 +4264,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/fashion--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=fashion",
+      "finalUrl": "https://delaemdigital.com/buyer?store=fashion",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4383,9 +4275,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4400,7 +4290,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/fashion--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/fashion/manage",
+      "finalUrl": "https://delaemdigital.com/demo/fashion/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4411,9 +4301,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4428,7 +4316,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/fashion--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/fashion",
+      "finalUrl": "https://delaemdigital.com/demo/fashion",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4440,13 +4328,11 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 301.8999999999942
+          "time": 267.3999999999942
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4461,7 +4347,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/flowers--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=flowers",
+      "finalUrl": "https://delaemdigital.com/buyer?store=flowers",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4472,7 +4358,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4487,7 +4375,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/flowers--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/flowers/manage",
+      "finalUrl": "https://delaemdigital.com/demo/flowers/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4498,7 +4386,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4513,7 +4403,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/flowers--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/flowers",
+      "finalUrl": "https://delaemdigital.com/demo/flowers",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4525,11 +4415,13 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 309.20000000001164
+          "time": 293.19999999998254
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4544,7 +4436,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/food-delivery--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=food-delivery",
+      "finalUrl": "https://delaemdigital.com/buyer?store=food-delivery",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4574,7 +4466,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/food-delivery--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/food-delivery/manage",
+      "finalUrl": "https://delaemdigital.com/demo/food-delivery/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4604,7 +4496,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/food-delivery--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/food-delivery",
+      "finalUrl": "https://delaemdigital.com/demo/food-delivery",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4612,15 +4504,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 275.9000000000233
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 294.70000000001164
+          "value": 0.14396254335545844,
+          "time": 266.80000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -4643,7 +4531,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/furniture--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=furniture",
+      "finalUrl": "https://delaemdigital.com/buyer?store=furniture",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4669,7 +4557,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/furniture--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/furniture/manage",
+      "finalUrl": "https://delaemdigital.com/demo/furniture/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4695,7 +4583,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/furniture--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/furniture",
+      "finalUrl": "https://delaemdigital.com/demo/furniture",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4703,15 +4591,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 290.3000000000029
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 302.8000000000029
+          "value": 0.14396254335545844,
+          "time": 446.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -4730,7 +4614,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/gifts--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=gifts",
+      "finalUrl": "https://delaemdigital.com/buyer?store=gifts",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4741,9 +4625,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4758,7 +4640,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/gifts--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/gifts/manage",
+      "finalUrl": "https://delaemdigital.com/demo/gifts/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4769,9 +4651,7 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4786,7 +4666,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/gifts--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/gifts",
+      "finalUrl": "https://delaemdigital.com/demo/gifts",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4798,13 +4678,11 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 288.8999999999942
+          "time": 269.6000000000058
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -4819,7 +4697,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/home--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=home",
+      "finalUrl": "https://delaemdigital.com/buyer?store=home",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4849,7 +4727,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/home--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/home/manage",
+      "finalUrl": "https://delaemdigital.com/demo/home/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4879,7 +4757,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/home--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/home",
+      "finalUrl": "https://delaemdigital.com/demo/home",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4887,15 +4765,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 421
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 438.70000000001164
+          "value": 0.14396254335545844,
+          "time": 246.5
         }
       ],
       "nextErrorOverlay": false,
@@ -4918,7 +4792,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/home.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/",
+      "finalUrl": "https://delaemdigital.com/",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4930,7 +4804,7 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 426.6999999999971
+          "time": 265.3999999999942
         }
       ],
       "nextErrorOverlay": false,
@@ -4949,7 +4823,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/jewelry--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=jewelry",
+      "finalUrl": "https://delaemdigital.com/buyer?store=jewelry",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4961,8 +4835,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -4979,7 +4851,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/jewelry--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/jewelry/manage",
+      "finalUrl": "https://delaemdigital.com/demo/jewelry/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -4991,8 +4863,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5009,7 +4879,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/jewelry--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/jewelry",
+      "finalUrl": "https://delaemdigital.com/demo/jewelry",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5021,13 +4891,11 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 318.29999999998836
+          "time": 249.70000000001164
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5044,7 +4912,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/kids--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=kids",
+      "finalUrl": "https://delaemdigital.com/buyer?store=kids",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5056,8 +4924,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5074,7 +4940,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/kids--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/kids/manage",
+      "finalUrl": "https://delaemdigital.com/demo/kids/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5086,8 +4952,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5104,7 +4968,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/kids--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/kids",
+      "finalUrl": "https://delaemdigital.com/demo/kids",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5112,21 +4976,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 377.9000000000233
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 396.9000000000233
+          "value": 0.14396254335545844,
+          "time": 250.19999999998254
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5143,7 +5001,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/lighting--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=lighting",
+      "finalUrl": "https://delaemdigital.com/buyer?store=lighting",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5173,7 +5031,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/lighting--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/lighting/manage",
+      "finalUrl": "https://delaemdigital.com/demo/lighting/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5203,7 +5061,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/lighting--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/lighting",
+      "finalUrl": "https://delaemdigital.com/demo/lighting",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5211,15 +5069,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 302
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 320.5
+          "value": 0.14396254335545844,
+          "time": 254.89999999999418
         }
       ],
       "nextErrorOverlay": false,
@@ -5242,7 +5096,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/meat-fish--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=meat-fish",
+      "finalUrl": "https://delaemdigital.com/buyer?store=meat-fish",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5254,8 +5108,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5272,7 +5124,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/meat-fish--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/meat-fish/manage",
+      "finalUrl": "https://delaemdigital.com/demo/meat-fish/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5284,8 +5136,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5302,7 +5152,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/meat-fish--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/meat-fish",
+      "finalUrl": "https://delaemdigital.com/demo/meat-fish",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5314,13 +5164,11 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 326.3999999999942
+          "time": 255.79999999998836
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5337,7 +5185,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/optics--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=optics",
+      "finalUrl": "https://delaemdigital.com/buyer?store=optics",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5367,7 +5215,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/optics--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/optics/manage",
+      "finalUrl": "https://delaemdigital.com/demo/optics/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5397,7 +5245,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/optics--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/optics",
+      "finalUrl": "https://delaemdigital.com/demo/optics",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5405,15 +5253,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 271.79999999998836
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 281
+          "value": 0.14396254335545844,
+          "time": 267.20000000001164
         }
       ],
       "nextErrorOverlay": false,
@@ -5436,7 +5280,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/pets--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=pets",
+      "finalUrl": "https://delaemdigital.com/buyer?store=pets",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5462,7 +5306,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/pets--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/pets/manage",
+      "finalUrl": "https://delaemdigital.com/demo/pets/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5488,7 +5332,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/pets--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/pets",
+      "finalUrl": "https://delaemdigital.com/demo/pets",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5496,15 +5340,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 268.29999999998836
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 288.19999999998254
+          "value": 0.14396254335545844,
+          "time": 289.30000000001746
         }
       ],
       "nextErrorOverlay": false,
@@ -5523,7 +5363,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/plumbing--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=plumbing",
+      "finalUrl": "https://delaemdigital.com/buyer?store=plumbing",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5535,6 +5375,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5551,7 +5393,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/plumbing--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/plumbing/manage",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5563,6 +5405,8 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5579,7 +5423,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/plumbing--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/plumbing",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5587,19 +5431,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 339.1000000000058
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 351.8999999999942
+          "value": 0.14396254335545844,
+          "time": 250.30000000001746
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()",
+        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5616,7 +5458,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/premium-tech--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=premium-tech",
+      "finalUrl": "https://delaemdigital.com/buyer?store=premium-tech",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5642,7 +5484,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/premium-tech--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/premium-tech/manage",
+      "finalUrl": "https://delaemdigital.com/demo/premium-tech/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5668,7 +5510,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/premium-tech--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/premium-tech",
+      "finalUrl": "https://delaemdigital.com/demo/premium-tech",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5676,15 +5518,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.14399023641438077,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.000546702535651571,
-          "time": 311.6999999999971
-        },
-        {
-          "value": 0.1434435338787292,
-          "time": 330.6999999999971
+          "value": 0.14396254335545844,
+          "time": 282.29999999998836
         }
       ],
       "nextErrorOverlay": false,
@@ -5703,7 +5541,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/shoes--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=shoes",
+      "finalUrl": "https://delaemdigital.com/buyer?store=shoes",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5715,8 +5553,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5733,7 +5569,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/shoes--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/shoes/manage",
+      "finalUrl": "https://delaemdigital.com/demo/shoes/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5745,8 +5581,6 @@
       "layoutShifts": [],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5763,7 +5597,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/shoes--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/shoes",
+      "finalUrl": "https://delaemdigital.com/demo/shoes",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5775,13 +5609,11 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 291.30000000001746
+          "time": 314.19999999998254
         }
       ],
       "nextErrorOverlay": false,
       "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 429 ()",
-        "Failed to load resource: the server responded with a status of 429 ()",
         "Failed to load resource: the server responded with a status of 429 ()"
       ],
       "pageErrors": [],
@@ -5798,7 +5630,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/sport--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=sport",
+      "finalUrl": "https://delaemdigital.com/buyer?store=sport",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5824,7 +5656,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/sport--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/sport/manage",
+      "finalUrl": "https://delaemdigital.com/demo/sport/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5850,7 +5682,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/sport--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/sport",
+      "finalUrl": "https://delaemdigital.com/demo/sport",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5862,7 +5694,7 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 488.69999999998254
+          "time": 256.19999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -5881,7 +5713,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tableware--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=tableware",
+      "finalUrl": "https://delaemdigital.com/buyer?store=tableware",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5911,7 +5743,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tableware--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tableware/manage",
+      "finalUrl": "https://delaemdigital.com/demo/tableware/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5941,7 +5773,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tableware--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tableware",
+      "finalUrl": "https://delaemdigital.com/demo/tableware",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -5949,15 +5781,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 294.79999999998836
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 301.8999999999942
+          "value": 0.14396254335545844,
+          "time": 256.6000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -5980,7 +5808,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tires--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=tires",
+      "finalUrl": "https://delaemdigital.com/buyer?store=tires",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -6006,7 +5834,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tires--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tires/manage",
+      "finalUrl": "https://delaemdigital.com/demo/tires/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -6032,7 +5860,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tires--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tires",
+      "finalUrl": "https://delaemdigital.com/demo/tires",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -6040,15 +5868,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 275.59999999999127
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 288.49999999998545
+          "value": 0.14396254335545844,
+          "time": 276.19999999998254
         }
       ],
       "nextErrorOverlay": false,
@@ -6067,7 +5891,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tools--buyer-account.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/buyer?store=tools",
+      "finalUrl": "https://delaemdigital.com/buyer?store=tools",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -6078,7 +5902,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -6093,7 +5919,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tools--seller-panel.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tools/manage",
+      "finalUrl": "https://delaemdigital.com/demo/tools/manage",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -6104,7 +5930,9 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     },
@@ -6119,7 +5947,7 @@
       "navigationError": null,
       "screenshotPath": "visual-audit/mobile-390/tools--store.png",
       "title": "Управляемая лидогенерация | Делаем Диджитал",
-      "finalUrl": "https://www.delaemdigital.com/demo/tools",
+      "finalUrl": "https://delaemdigital.com/demo/tools",
       "textLength": 871,
       "viewportWidth": 390,
       "scrollWidth": 390,
@@ -6127,19 +5955,17 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.1456915920372531,
+      "cls": 0.14396254335545844,
       "layoutShifts": [
         {
-          "value": 0.14388723609805068,
-          "time": 321
-        },
-        {
-          "value": 0.001804355939202416,
-          "time": 332.5999999999767
+          "value": 0.14396254335545844,
+          "time": 258.5999999999767
         }
       ],
       "nextErrorOverlay": false,
-      "consoleErrors": [],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 429 ()"
+      ],
       "pageErrors": [],
       "requestFailures": []
     }
@@ -6150,7 +5976,7 @@
     "statusFailures": 0,
     "horizontalOverflow": 0,
     "brokenImages": 0,
-    "browserErrors": 182,
+    "browserErrors": 171,
     "highCls": 31
   }
 }

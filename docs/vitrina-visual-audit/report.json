@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T21:18:36.341Z",
+  "generatedAt": "2026-09-06T23:51:18.255Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
@@ -50,21 +50,21 @@
     "visual-audit/desktop-1440/lighting--seller-panel.png",
     "visual-audit/desktop-1440/plumbing--store.png",
     "visual-audit/desktop-1440/doors--store.png",
-    "visual-audit/desktop-1440/doors--seller-panel.png",
     "visual-audit/desktop-1440/plumbing--seller-panel.png",
+    "visual-audit/desktop-1440/doors--seller-panel.png",
     "visual-audit/desktop-1440/lighting--buyer-account.png",
     "visual-audit/desktop-1440/building--store.png",
-    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/plumbing--buyer-account.png",
+    "visual-audit/desktop-1440/doors--buyer-account.png",
     "visual-audit/desktop-1440/building--seller-panel.png",
-    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--store.png",
-    "visual-audit/desktop-1440/flowers--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--store.png",
     "visual-audit/desktop-1440/tools--seller-panel.png",
+    "visual-audit/desktop-1440/flowers--seller-panel.png",
     "visual-audit/desktop-1440/building--buyer-account.png",
     "visual-audit/desktop-1440/pets--store.png",
-    "visual-audit/desktop-1440/flowers--buyer-account.png",
     "visual-audit/desktop-1440/tools--buyer-account.png",
+    "visual-audit/desktop-1440/flowers--buyer-account.png",
     "visual-audit/desktop-1440/pets--seller-panel.png",
     "visual-audit/desktop-1440/sport--store.png",
     "visual-audit/desktop-1440/books--store.png",
@@ -126,8 +126,8 @@
     "visual-audit/mobile-390/fashion--buyer-account.png",
     "visual-audit/mobile-390/jewelry--store.png",
     "visual-audit/mobile-390/kids--store.png",
-    "visual-audit/mobile-390/shoes--buyer-account.png",
     "visual-audit/mobile-390/jewelry--seller-panel.png",
+    "visual-audit/mobile-390/shoes--buyer-account.png",
     "visual-audit/mobile-390/kids--seller-panel.png",
     "visual-audit/mobile-390/home--store.png",
     "visual-audit/mobile-390/jewelry--buyer-account.png",
@@ -135,8 +135,8 @@
     "visual-audit/mobile-390/kids--buyer-account.png",
     "visual-audit/mobile-390/tableware--store.png",
     "visual-audit/mobile-390/lighting--store.png",
-    "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/tableware--seller-panel.png",
+    "visual-audit/mobile-390/home--buyer-account.png",
     "visual-audit/mobile-390/lighting--seller-panel.png",
     "visual-audit/mobile-390/plumbing--store.png",
     "visual-audit/mobile-390/tableware--buyer-account.png",
@@ -144,8 +144,8 @@
     "visual-audit/mobile-390/lighting--buyer-account.png",
     "visual-audit/mobile-390/doors--store.png",
     "visual-audit/mobile-390/building--store.png",
-    "visual-audit/mobile-390/plumbing--buyer-account.png",
     "visual-audit/mobile-390/doors--seller-panel.png",
+    "visual-audit/mobile-390/plumbing--buyer-account.png",
     "visual-audit/mobile-390/building--seller-panel.png",
     "visual-audit/mobile-390/tools--store.png",
     "visual-audit/mobile-390/doors--buyer-account.png",
@@ -153,8 +153,8 @@
     "visual-audit/mobile-390/building--buyer-account.png",
     "visual-audit/mobile-390/flowers--store.png",
     "visual-audit/mobile-390/pets--store.png",
-    "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/flowers--seller-panel.png",
+    "visual-audit/mobile-390/tools--buyer-account.png",
     "visual-audit/mobile-390/pets--seller-panel.png",
     "visual-audit/mobile-390/sport--store.png",
     "visual-audit/mobile-390/flowers--buyer-account.png",
@@ -162,8 +162,8 @@
     "visual-audit/mobile-390/pets--buyer-account.png",
     "visual-audit/mobile-390/books--store.png",
     "visual-audit/mobile-390/gifts--store.png",
-    "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/books--seller-panel.png",
+    "visual-audit/mobile-390/sport--buyer-account.png",
     "visual-audit/mobile-390/gifts--seller-panel.png",
     "visual-audit/mobile-390/coffee--store.png",
     "visual-audit/mobile-390/books--buyer-account.png",
@@ -171,8 +171,8 @@
     "visual-audit/mobile-390/gifts--buyer-account.png",
     "visual-audit/mobile-390/bakery--store.png",
     "visual-audit/mobile-390/meat-fish--store.png",
-    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/bakery--seller-panel.png",
+    "visual-audit/mobile-390/coffee--buyer-account.png",
     "visual-audit/mobile-390/meat-fish--seller-panel.png",
     "visual-audit/mobile-390/food-delivery--store.png",
     "visual-audit/mobile-390/bakery--buyer-account.png",
@@ -180,8 +180,8 @@
     "visual-audit/mobile-390/meat-fish--buyer-account.png",
     "visual-audit/mobile-390/optics--store.png",
     "visual-audit/mobile-390/b2b-wholesale--store.png",
-    "visual-audit/mobile-390/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/optics--seller-panel.png",
+    "visual-audit/mobile-390/food-delivery--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/optics--buyer-account.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png"
@@ -1747,11 +1747,11 @@
       "layoutShifts": [
         {
           "value": 0.0022276466049382716,
-          "time": 1557.300000000003
+          "time": 1163
         },
         {
           "value": 0.05229311342592593,
-          "time": 1608.8999999999942
+          "time": 1214.699999999997
         }
       ],
       "nextErrorOverlay": false,
@@ -4482,7 +4482,7 @@
       "layoutShifts": [
         {
           "value": 0.14396254335545844,
-          "time": 313
+          "time": 289.6000000000058
         }
       ],
       "nextErrorOverlay": false,

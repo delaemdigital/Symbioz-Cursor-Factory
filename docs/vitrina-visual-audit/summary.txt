@@ -1,4 +1,4 @@
-Generated: 2026-09-15T18:10:01.537Z
+Generated: 2026-09-15T21:17:44.930Z
 Base URL: https://www.delaemdigital.com
 Scope: full
 Captures: 182

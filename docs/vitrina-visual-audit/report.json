@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:45:24.311Z",
+  "generatedAt": "2026-09-20T21:31:02.340Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
@@ -1127,7 +1127,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1161,7 +1161,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1195,7 +1195,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1780,7 +1780,7 @@
       "layoutShifts": [
         {
           "value": 0.0332920524691358,
-          "time": 1951.7000000000116
+          "time": 2241.7999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -4511,11 +4511,11 @@
       "layoutShifts": [
         {
           "value": 0.29107733803523433,
-          "time": 1384
+          "time": 1846.100000000035
         },
         {
           "value": 0.0004082775112176967,
-          "time": 1392
+          "time": 1854.7999999999884
         }
       ],
       "nextErrorOverlay": false,

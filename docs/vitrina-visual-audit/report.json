@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T04:49:48.530Z",
+  "generatedAt": "2026-09-22T09:54:43.288Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
-    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/home.png",
+    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
@@ -1780,7 +1780,7 @@
       "layoutShifts": [
         {
           "value": 0.0332920524691358,
-          "time": 1577
+          "time": 1503.2000000000044
         }
       ],
       "nextErrorOverlay": false,
@@ -2352,14 +2352,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "plumbing--seller-panel",
@@ -2385,14 +2382,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "plumbing--store",
@@ -2401,12 +2395,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n",
+      "status": 404,
+      "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/plumbing--store.png",
-      "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
-      "textLength": 0,
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing",
+      "textLength": 123,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2418,14 +2412,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "premium-tech--buyer-account",
@@ -4520,7 +4511,7 @@
       "layoutShifts": [
         {
           "value": 0.29107733803523433,
-          "time": 1315.100000000035
+          "time": 1322.1000000000058
         }
       ],
       "nextErrorOverlay": false,
@@ -5701,8 +5692,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 4,
-    "statusFailures": 176,
+    "navigationFailures": 3,
+    "statusFailures": 177,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,

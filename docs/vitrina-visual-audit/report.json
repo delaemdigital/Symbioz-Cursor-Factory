@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-09-24T15:03:53.628Z",
+  "generatedAt": "2026-09-24T19:06:55.467Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/home.png",
-    "visual-audit/desktop-1440/electronics--buyer-account.png",
-    "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/furniture--store.png",
+    "visual-audit/desktop-1440/premium-tech--buyer-account.png",
+    "visual-audit/desktop-1440/electronics--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
@@ -180,11 +181,10 @@
     "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--seller-panel.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png"
+    "visual-audit/desktop-1440/farm--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png"
   ],
   "pages": [
     {
@@ -1127,7 +1127,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1161,7 +1161,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1195,7 +1195,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1475,45 +1475,11 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
-      "screenshotPath": "visual-audit/desktop-1440/furniture--buyer-account.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/buyer?store=furniture",
-      "textLength": 123,
-      "viewportWidth": 1440,
-      "scrollWidth": 1440,
-      "scrollHeight": 1000,
-      "horizontalOverflow": false,
-      "overflowElements": [],
-      "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
-      "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()"
-      ],
-      "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/furniture/manage\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
-      ],
-      "requestFailures": [
-        "GET https://delaemdigital.com/demo/furniture/manage — net::ERR_TIMED_OUT"
-      ]
-    },
-    {
-      "state": "furniture--seller-panel",
-      "viewport": {
-        "name": "desktop-1440",
-        "width": 1440,
-        "height": 1000
-      },
       "status": null,
-      "navigationError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/furniture/manage\", waiting until \"domcontentloaded\"\n",
-      "screenshotPath": "visual-audit/desktop-1440/furniture--seller-panel.png",
+      "navigationError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=furniture\", waiting until \"domcontentloaded\"\n",
+      "screenshotPath": "visual-audit/desktop-1440/furniture--buyer-account.png",
       "title": "",
-      "finalUrl": "https://delaemdigital.com/demo/furniture",
+      "finalUrl": "https://delaemdigital.com/demo/furniture/manage",
       "textLength": 0,
       "viewportWidth": 0,
       "scrollWidth": 0,
@@ -1529,11 +1495,45 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/furniture/manage\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=furniture\", waiting until \"domcontentloaded\"\n",
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://delaemdigital.com/demo/furniture/manage — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/buyer?store=furniture — net::ERR_TIMED_OUT"
+      ]
+    },
+    {
+      "state": "furniture--seller-panel",
+      "viewport": {
+        "name": "desktop-1440",
+        "width": 1440,
+        "height": 1000
+      },
+      "status": 404,
+      "navigationError": null,
+      "screenshotPath": "visual-audit/desktop-1440/furniture--seller-panel.png",
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/furniture/manage",
+      "textLength": 123,
+      "viewportWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 1000,
+      "horizontalOverflow": false,
+      "overflowElements": [],
+      "brokenImages": [],
+      "cls": 0,
+      "layoutShifts": [],
+      "nextErrorOverlay": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=furniture\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/buyer?store=furniture — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1563,11 +1563,11 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/furniture/manage\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=furniture\", waiting until \"domcontentloaded\"\n",
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://delaemdigital.com/demo/furniture/manage — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/buyer?store=furniture — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1776,15 +1776,11 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.025473068094135805,
+      "cls": 0.0332920524691358,
       "layoutShifts": [
         {
-          "value": 0.0002345457175925926,
-          "time": 1995.7000000000116
-        },
-        {
-          "value": 0.025238522376543213,
-          "time": 2015.2000000000116
+          "value": 0.0332920524691358,
+          "time": 1592.9000000000015
         }
       ],
       "nextErrorOverlay": false,
@@ -1996,11 +1992,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/lighting\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/lighting\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/lighting — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "lighting--seller-panel",
@@ -2026,11 +2025,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/lighting\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/lighting\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/lighting — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "lighting--store",
@@ -2039,12 +2041,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/lighting\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/lighting\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/lighting--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/lighting",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2056,11 +2058,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/lighting\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/lighting\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/lighting — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "meat-fish--buyer-account",
@@ -2536,14 +2541,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/shoes\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/shoes\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/shoes — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "shoes--seller-panel",
@@ -2569,14 +2571,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/shoes\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/shoes\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/shoes — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "shoes--store",
@@ -2585,12 +2584,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/shoes\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/shoes\", waiting until \"domcontentloaded\"\n",
+      "status": 404,
+      "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/shoes--store.png",
-      "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
-      "textLength": 0,
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/shoes",
+      "textLength": 123,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2602,14 +2601,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/shoes\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/shoes\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/shoes — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "sport--buyer-account",
@@ -2815,14 +2811,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/tires — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "tires--seller-panel",
@@ -2848,14 +2841,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/tires — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "tires--store",
@@ -2864,12 +2854,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n",
+      "status": 404,
+      "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/tires--store.png",
-      "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
-      "textLength": 0,
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/tires",
+      "textLength": 123,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2881,14 +2871,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/tires — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "tools--buyer-account",
@@ -4529,15 +4516,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.2907968668199795,
+      "cls": 0.23909197613915917,
       "layoutShifts": [
         {
-          "value": 0.0005111963872997992,
-          "time": 1807.5999999999767
+          "value": 0.14381905250012741,
+          "time": 1356.399999999965
         },
         {
-          "value": 0.2902856704326797,
-          "time": 1823.1999999999534
+          "value": 0.09527292363903177,
+          "time": 1558.2999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -5718,11 +5705,11 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 5,
-    "statusFailures": 175,
+    "navigationFailures": 4,
+    "statusFailures": 176,
     "horizontalOverflow": 0,
     "brokenImages": 0,
-    "browserErrors": 365,
+    "browserErrors": 364,
     "highCls": 1
   }
 }

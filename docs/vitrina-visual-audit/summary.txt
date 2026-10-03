@@ -1,9 +1,9 @@
-Generated: 2026-10-03T17:14:23.496Z
+Generated: 2026-10-03T19:50:22.824Z
 Base URL: https://www.delaemdigital.com
 Scope: full
 Captures: 182
-Navigation failures: 7
-HTTP status failures: 173
+Navigation failures: 4
+HTTP status failures: 176
 Horizontal overflow: 0
 Broken images: 0
 Browser errors: 366

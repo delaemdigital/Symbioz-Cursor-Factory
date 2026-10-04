@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-04T02:34:07.480Z",
+  "generatedAt": "2026-10-04T09:42:50.552Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
-    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
+    "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/furniture--store.png",
-    "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
+    "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
@@ -1776,11 +1776,15 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0332920524691358,
+      "cls": 0.03742701702353395,
       "layoutShifts": [
         {
-          "value": 0.0332920524691358,
-          "time": 2152.4000000000015
+          "value": 0.035342192744502315,
+          "time": 1900.2999999999884
+        },
+        {
+          "value": 0.002084824279031636,
+          "time": 1907.2999999999884
         }
       ],
       "nextErrorOverlay": false,
@@ -2892,11 +2896,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tools\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tools\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/tools — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "tools--seller-panel",
@@ -2922,11 +2929,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tools\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tools\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/tools — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "tools--store",
@@ -2935,12 +2945,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tools\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tools\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/tools--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/tools",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2952,11 +2962,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tools\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tools\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/tools — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "auto-parts--buyer-account",
@@ -4507,15 +4520,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.291485615546452,
+      "cls": 0.2907937711906625,
       "layoutShifts": [
         {
-          "value": 0.29107733803523433,
-          "time": 1782.1999999999825
+          "value": 0.0006254611047854687,
+          "time": 1708.6999999999534
         },
         {
-          "value": 0.0004082775112176967,
-          "time": 1789
+          "value": 0.29016831008587707,
+          "time": 1724.5
         }
       ],
       "nextErrorOverlay": false,
@@ -5696,8 +5709,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 3,
-    "statusFailures": 177,
+    "navigationFailures": 4,
+    "statusFailures": 176,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,

@@ -1,0 +1,29 @@
+---
+description: Evidence-based quality gates that prevent unverified completion claims.
+alwaysApply: true
+---
+
+# Proof gates
+
+Before declaring a change complete, run the strongest relevant checks available.
+
+Typical order:
+
+1. static validation / format
+2. lint
+3. typecheck
+4. focused tests
+5. full relevant tests
+6. production build
+7. browser or functional QA when UI/runtime behavior changed
+8. provider or MCP health check when infrastructure changed
+9. security review when auth, data, payments, secrets, permissions, or external inputs changed
+
+Report:
+- what changed
+- what was actually run
+- what passed
+- what was not run
+- remaining risks
+
+A written plan, generated code, or successful command is not by itself proof that a product behavior works.

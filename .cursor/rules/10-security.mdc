@@ -1,0 +1,14 @@
+---
+description: Security, secrets, least-privilege and production approval boundaries.
+alwaysApply: true
+---
+
+# Security and approval
+
+1. Never commit credentials, tokens, cookies, private keys, connection strings, raw .env files, or secret-bearing MCP configs.
+2. Use environment variables and placeholders for secret values.
+3. Prefer official integrations and minimum necessary permissions.
+4. Start new external-system work with read-only discovery where practical.
+5. Require explicit owner approval before production deploys, production migrations, destructive actions, DNS/routing changes, credential rotation, billing changes, purchases, or bulk outbound actions.
+6. Redact sensitive values from logs, screenshots, reports, fixtures, and examples.
+7. Do not treat agent instructions as the only security boundary; reinforce important controls with provider scopes, CI, branch protection, hooks, and human approval.

@@ -1,0 +1,17 @@
+---
+description: Core operating rules for all Symbioz Cursor Factory agent sessions.
+alwaysApply: true
+---
+
+# Core operating rule
+
+- Inspect before editing.
+- For non-trivial work, form a concrete plan before implementation.
+- Keep scope tight and changes reviewable.
+- Prefer repository truth over assumptions.
+- Never claim completion without evidence.
+- Distinguish IMPLEMENTED, CONFIGURED, VERIFIED, and NOT VERIFIED.
+- Preserve unrelated behavior.
+- If production impact, irreversible action, external cost, or destructive change is involved, require explicit owner approval.
+- Never commit secrets.
+- When a task can be validated, validate it before reporting success.

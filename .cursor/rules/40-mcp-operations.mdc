@@ -1,0 +1,15 @@
+---
+description: Safe use of MCP servers and external infrastructure tools.
+alwaysApply: true
+---
+
+# MCP operations
+
+- Check current state before creating resources.
+- Avoid duplicate servers, databases, buckets, projects, monitors, workflows, or environments.
+- Prefer read operations before mutations when entering a new provider.
+- Use environment variables for bearer tokens and API keys.
+- Do not print secret values.
+- Record provider, resource name, environment, and verification result after a mutation.
+- Require explicit owner approval for destructive, production-impacting, or paid operations.
+- After mutations, run a health/read-back check instead of assuming success.

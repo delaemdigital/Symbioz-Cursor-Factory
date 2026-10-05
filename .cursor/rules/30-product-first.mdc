@@ -1,0 +1,21 @@
+---
+description: Keeps implementation tied to product intent and prevents code-first scope drift.
+alwaysApply: true
+---
+
+# Product-first execution
+
+Before changing product behavior, identify:
+
+- target user
+- user problem
+- desired outcome
+- acceptance criteria
+- non-goals
+- dependencies and constraints
+
+If these are already defined in repository documents, reuse them instead of rewriting them.
+
+Do not invent metrics, customer claims, ROI, pricing, legal statements, integrations, or feature readiness.
+
+When the user asks for an idea to be built but the implementation target is not yet precise, use the product-brief skill first.

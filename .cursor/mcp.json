@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "openrouter": {
+      "url": "https://mcp.openrouter.ai/mcp"
+    },
+    "betterstack": {
+      "url": "https://mcp.betterstack.com"
+    },
+    "timewebCloud": {
+      "url": "https://timeweb.cloud/api/v1/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:TIMEWEB_CLOUD_TOKEN}"
+      }
+    }
+  }
+}

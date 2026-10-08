@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T05:57:20.087Z",
+  "generatedAt": "2026-10-08T13:22:30.407Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
@@ -181,10 +181,10 @@
     "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png"
+    "visual-audit/desktop-1440/farm--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png"
   ],
   "pages": [
     {
@@ -1127,7 +1127,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1161,7 +1161,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1195,7 +1195,7 @@
         "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1780,11 +1780,11 @@
       "layoutShifts": [
         {
           "value": 0.035342192744502315,
-          "time": 1686.5
+          "time": 1687.300000000003
         },
         {
           "value": 0.002084824279031636,
-          "time": 1701.4000000000087
+          "time": 1710.199999999997
         }
       ],
       "nextErrorOverlay": false,
@@ -2266,11 +2266,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/pets\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/pets\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/pets — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "pets--seller-panel",
@@ -2296,11 +2299,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/pets\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/pets\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/pets — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "pets--store",
@@ -2309,12 +2315,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/pets\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/pets\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/pets--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/pets",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2326,11 +2332,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/pets\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/pets\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/pets — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "plumbing--buyer-account",
@@ -4511,15 +4520,11 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.291485615546452,
+      "cls": 0.29107733803523433,
       "layoutShifts": [
         {
           "value": 0.29107733803523433,
-          "time": 1475.2999999999884
-        },
-        {
-          "value": 0.0004082775112176967,
-          "time": 1479.8999999999942
+          "time": 1474.7000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -5700,8 +5705,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 3,
-    "statusFailures": 177,
+    "navigationFailures": 4,
+    "statusFailures": 176,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,

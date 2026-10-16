@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-10-16T14:48:46.059Z",
+  "generatedAt": "2026-10-16T18:47:00.655Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/premium-tech--store.png",
     "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
-    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/home.png",
+    "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
+    "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/cars--store.png",
     "visual-audit/desktop-1440/cars--seller-panel.png",
     "visual-audit/desktop-1440/cars--buyer-account.png",
@@ -182,7 +183,6 @@
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
     "visual-audit/desktop-1440/furniture--buyer-account.png",
-    "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
     "visual-audit/desktop-1440/farm--buyer-account.png"
   ],
@@ -1103,8 +1103,8 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: Navigation to \"https://www.delaemdigital.com/buyer?store=farm\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=farm\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/farm--buyer-account.png",
       "title": "Страница не найдена | Делаем Диджитал",
       "finalUrl": "https://delaemdigital.com/buyer?store=farm",
@@ -1123,11 +1123,12 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm/manage\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n",
+        "navigation: page.goto: Navigation to \"https://www.delaemdigital.com/buyer?store=farm\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=farm\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/demo/farm/manage — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1137,45 +1138,11 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
-      "screenshotPath": "visual-audit/desktop-1440/farm--seller-panel.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/farm/manage",
-      "textLength": 123,
-      "viewportWidth": 1440,
-      "scrollWidth": 1440,
-      "scrollHeight": 1000,
-      "horizontalOverflow": false,
-      "overflowElements": [],
-      "brokenImages": [],
-      "cls": 0,
-      "layoutShifts": [],
-      "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()"
-      ],
-      "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
-      ]
-    },
-    {
-      "state": "farm--store",
-      "viewport": {
-        "name": "desktop-1440",
-        "width": 1440,
-        "height": 1000
-      },
       "status": null,
-      "navigationError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
-      "screenshotPath": "visual-audit/desktop-1440/farm--store.png",
+      "navigationError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm/manage\", waiting until \"domcontentloaded\"\n",
+      "screenshotPath": "visual-audit/desktop-1440/farm--seller-panel.png",
       "title": "",
-      "finalUrl": "about:blank",
+      "finalUrl": "https://delaemdigital.com/demo/farm",
       "textLength": 0,
       "viewportWidth": 0,
       "scrollWidth": 0,
@@ -1191,11 +1158,47 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm/manage\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n",
+        "navigation: page.goto: Navigation to \"https://www.delaemdigital.com/buyer?store=farm\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=farm\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/demo/farm/manage — net::ERR_TIMED_OUT"
+      ]
+    },
+    {
+      "state": "farm--store",
+      "viewport": {
+        "name": "desktop-1440",
+        "width": 1440,
+        "height": 1000
+      },
+      "status": 404,
+      "navigationError": null,
+      "screenshotPath": "visual-audit/desktop-1440/farm--store.png",
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/farm",
+      "textLength": 123,
+      "viewportWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 1000,
+      "horizontalOverflow": false,
+      "overflowElements": [],
+      "brokenImages": [],
+      "cls": 0,
+      "layoutShifts": [],
+      "nextErrorOverlay": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm/manage\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n",
+        "navigation: page.goto: Navigation to \"https://www.delaemdigital.com/buyer?store=farm\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=farm\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/farm/manage — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1780,7 +1783,7 @@
       "layoutShifts": [
         {
           "value": 0.0332920524691358,
-          "time": 1742.0999999999767
+          "time": 1680.9000000000015
         }
       ],
       "nextErrorOverlay": false,
@@ -4511,11 +4514,11 @@
       "layoutShifts": [
         {
           "value": 0.0005111963872997992,
-          "time": 1306.7999999999884
+          "time": 1335.9000000000233
         },
         {
           "value": 0.2902856704326797,
-          "time": 1319.7000000000116
+          "time": 1350.2000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -5696,8 +5699,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 3,
-    "statusFailures": 177,
+    "navigationFailures": 4,
+    "statusFailures": 176,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,

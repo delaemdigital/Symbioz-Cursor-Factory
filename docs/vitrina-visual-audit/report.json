@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T20:36:56.304Z",
+  "generatedAt": "2026-10-18T23:07:57.725Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/premium-tech--store.png",
     "visual-audit/desktop-1440/electronics--store.png",
-    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
+    "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
@@ -181,10 +181,10 @@
     "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png"
+    "visual-audit/desktop-1440/farm--buyer-account.png"
   ],
   "pages": [
     {
@@ -1776,11 +1776,15 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0332920524691358,
+      "cls": 0.03742701702353395,
       "layoutShifts": [
         {
-          "value": 0.0332920524691358,
-          "time": 2393.5
+          "value": 0.035342192744502315,
+          "time": 2026.300000000003
+        },
+        {
+          "value": 0.002084824279031636,
+          "time": 2142.899999999994
         }
       ],
       "nextErrorOverlay": false,
@@ -2622,14 +2626,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/sport\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/sport\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/sport — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "sport--seller-panel",
@@ -2655,14 +2656,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/sport\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/sport\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/sport — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "sport--store",
@@ -2671,12 +2669,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/sport\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/sport\", waiting until \"domcontentloaded\"\n",
+      "status": 404,
+      "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/sport--store.png",
-      "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
-      "textLength": 0,
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/sport",
+      "textLength": 123,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2688,14 +2686,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/sport\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/sport\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/sport — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "tableware--buyer-account",
@@ -4516,15 +4511,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.291485615546452,
+      "cls": 0.2907937711906625,
       "layoutShifts": [
         {
-          "value": 0.29107733803523433,
-          "time": 1285.7999999999884
+          "value": 0.0006254611047854687,
+          "time": 1647
         },
         {
-          "value": 0.0004082775112176967,
-          "time": 1304.2999999999884
+          "value": 0.29016831008587707,
+          "time": 1660.2000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -5705,8 +5700,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 4,
-    "statusFailures": 176,
+    "navigationFailures": 3,
+    "statusFailures": 177,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:52:05.911Z",
+  "generatedAt": "2026-10-29T16:53:53.477Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
@@ -9,12 +9,12 @@
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
     "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/furniture--store.png",
-    "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
+    "visual-audit/desktop-1440/premium-tech--buyer-account.png",
     "visual-audit/desktop-1440/furniture--seller-panel.png",
-    "visual-audit/desktop-1440/farm--store.png",
-    "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
+    "visual-audit/desktop-1440/cars--store.png",
+    "visual-audit/desktop-1440/cars--seller-panel.png",
+    "visual-audit/desktop-1440/cars--buyer-account.png",
     "visual-audit/desktop-1440/auto-parts--store.png",
     "visual-audit/desktop-1440/auto-parts--seller-panel.png",
     "visual-audit/desktop-1440/auto-parts--buyer-account.png",
@@ -182,9 +182,9 @@
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
     "visual-audit/desktop-1440/furniture--buyer-account.png",
-    "visual-audit/desktop-1440/cars--store.png",
-    "visual-audit/desktop-1440/cars--seller-panel.png",
-    "visual-audit/desktop-1440/cars--buyer-account.png"
+    "visual-audit/desktop-1440/farm--store.png",
+    "visual-audit/desktop-1440/farm--seller-panel.png",
+    "visual-audit/desktop-1440/farm--buyer-account.png"
   ],
   "pages": [
     {
@@ -664,8 +664,7 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
         "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT"
@@ -698,8 +697,7 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
         "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT"
@@ -713,14 +711,14 @@
         "height": 1000
       },
       "status": null,
-      "navigationError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/cars--store.png",
       "title": "",
-      "finalUrl": "about:blank",
+      "finalUrl": "chrome-error://chromewebdata/",
       "textLength": 0,
-      "viewportWidth": 0,
-      "scrollWidth": 0,
-      "scrollHeight": 0,
+      "viewportWidth": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 1000,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -732,8 +730,7 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
-        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
         "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT"
@@ -1126,7 +1123,8 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/farm\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n"
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
         "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
@@ -1159,7 +1157,8 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/farm\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n"
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
         "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
@@ -1173,14 +1172,14 @@
         "height": 1000
       },
       "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/farm\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
+      "navigationError": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/farm--store.png",
       "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
+      "finalUrl": "about:blank",
       "textLength": 0,
-      "viewportWidth": 1440,
-      "scrollWidth": 1440,
-      "scrollHeight": 1000,
+      "viewportWidth": 0,
+      "scrollWidth": 0,
+      "scrollHeight": 0,
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
@@ -1192,7 +1191,8 @@
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
       "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/farm\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n"
+        "navigation: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/farm\", waiting until \"domcontentloaded\"\n",
+        "screenshot: page.screenshot: Timeout 45000ms exceeded.\nCall log:\n  - taking page screenshot\n    - disabled all CSS animations\n  - waiting for fonts to load...\n  - fonts loaded\n"
       ],
       "requestFailures": [
         "GET https://www.delaemdigital.com/demo/farm — net::ERR_TIMED_OUT"
@@ -1776,15 +1776,11 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.03742701702353395,
+      "cls": 0.0332920524691358,
       "layoutShifts": [
         {
-          "value": 0.035342192744502315,
-          "time": 2312.9000000000233
-        },
-        {
-          "value": 0.002084824279031636,
-          "time": 2333.7999999999884
+          "value": 0.0332920524691358,
+          "time": 2076.699999999997
         }
       ],
       "nextErrorOverlay": false,
@@ -4511,15 +4507,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.23909197613915917,
+      "cls": 0.2907968668199795,
       "layoutShifts": [
         {
-          "value": 0.14381905250012741,
-          "time": 1960.7000000000698
+          "value": 0.0005111963872997992,
+          "time": 1611.2999999999884
         },
         {
-          "value": 0.09527292363903177,
-          "time": 1971.5
+          "value": 0.2902856704326797,
+          "time": 1629.2999999999884
         }
       ],
       "nextErrorOverlay": false,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T21:46:15.371Z",
+  "generatedAt": "2026-10-30T01:55:50.466Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
@@ -1222,11 +1222,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/fashion\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/fashion\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/fashion — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "fashion--seller-panel",
@@ -1252,11 +1255,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/fashion\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/fashion\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/fashion — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "fashion--store",
@@ -1265,12 +1271,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/fashion\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/fashion\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/fashion--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/fashion",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -1282,11 +1288,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/fashion\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/fashion\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/fashion — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "flowers--buyer-account",
@@ -1776,15 +1785,15 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.03742701702353395,
+      "cls": 0.04843879728340808,
       "layoutShifts": [
         {
-          "value": 0.035342192744502315,
-          "time": 2051.3000000000466
+          "value": 0.024705193888346355,
+          "time": 1708.1000000000058
         },
         {
-          "value": 0.002084824279031636,
-          "time": 2064.8000000000466
+          "value": 0.02373360339506173,
+          "time": 1721
         }
       ],
       "nextErrorOverlay": false,
@@ -1816,11 +1825,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/jewelry\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/jewelry\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/jewelry — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "jewelry--seller-panel",
@@ -1846,11 +1858,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/jewelry\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/jewelry\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/jewelry — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "jewelry--store",
@@ -1859,12 +1874,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/jewelry\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/jewelry\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/jewelry--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/jewelry",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -1876,11 +1891,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/jewelry\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/jewelry\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/jewelry — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "kids--buyer-account",
@@ -2356,14 +2374,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "plumbing--seller-panel",
@@ -2389,14 +2404,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "plumbing--store",
@@ -2405,12 +2417,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n",
+      "status": 404,
+      "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/plumbing--store.png",
-      "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
-      "textLength": 0,
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing",
+      "textLength": 123,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2422,14 +2434,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "premium-tech--buyer-account",
@@ -2815,11 +2824,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/tires — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "tires--seller-panel",
@@ -2845,11 +2857,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/tires — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "tires--store",
@@ -2858,12 +2873,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/tires--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/tires",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2875,11 +2890,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/tires\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/tires\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/tires — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "tools--buyer-account",
@@ -4524,11 +4542,11 @@
       "layoutShifts": [
         {
           "value": 0.0005111963872997992,
-          "time": 1579.0999999999767
+          "time": 1515.3000000000466
         },
         {
           "value": 0.2902856704326797,
-          "time": 1595.5
+          "time": 1529.2000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -5709,8 +5727,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 4,
-    "statusFailures": 176,
+    "navigationFailures": 6,
+    "statusFailures": 174,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,

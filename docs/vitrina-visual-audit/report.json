@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T03:47:35.541Z",
+  "generatedAt": "2026-11-17T13:16:34.398Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
     "visual-audit/desktop-1440/electronics--store.png",
     "visual-audit/desktop-1440/premium-tech--store.png",
-    "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/electronics--seller-panel.png",
     "visual-audit/desktop-1440/premium-tech--seller-panel.png",
+    "visual-audit/desktop-1440/home.png",
     "visual-audit/desktop-1440/furniture--store.png",
     "visual-audit/desktop-1440/electronics--buyer-account.png",
     "visual-audit/desktop-1440/premium-tech--buyer-account.png",
@@ -181,10 +181,10 @@
     "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png"
+    "visual-audit/desktop-1440/farm--buyer-account.png"
   ],
   "pages": [
     {
@@ -1788,11 +1788,15 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.0332920524691358,
+      "cls": 0.04843879728340808,
       "layoutShifts": [
         {
-          "value": 0.0332920524691358,
-          "time": 1540.5
+          "value": 0.024705193888346355,
+          "time": 2285.9000000000233
+        },
+        {
+          "value": 0.02373360339506173,
+          "time": 2295.600000000006
         }
       ],
       "nextErrorOverlay": false,
@@ -4519,15 +4523,15 @@
       "horizontalOverflow": false,
       "overflowElements": [],
       "brokenImages": [],
-      "cls": 0.2907968668199795,
+      "cls": 0.2907937711906625,
       "layoutShifts": [
         {
-          "value": 0.0005111963872997992,
-          "time": 1372.600000000035
+          "value": 0.0006254611047854687,
+          "time": 1871.7000000000116
         },
         {
-          "value": 0.2902856704326797,
-          "time": 1383
+          "value": 0.29016831008587707,
+          "time": 1884.899999999965
         }
       ],
       "nextErrorOverlay": false,

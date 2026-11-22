@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:09:33.451Z",
+  "generatedAt": "2026-11-22T03:05:43.213Z",
   "baseUrl": "https://www.delaemdigital.com",
   "scope": "full",
   "screenshots": [
@@ -181,10 +181,10 @@
     "visual-audit/mobile-390/b2b-wholesale--store.png",
     "visual-audit/mobile-390/b2b-wholesale--seller-panel.png",
     "visual-audit/mobile-390/b2b-wholesale--buyer-account.png",
+    "visual-audit/desktop-1440/furniture--buyer-account.png",
     "visual-audit/desktop-1440/farm--store.png",
     "visual-audit/desktop-1440/farm--seller-panel.png",
-    "visual-audit/desktop-1440/farm--buyer-account.png",
-    "visual-audit/desktop-1440/furniture--buyer-account.png"
+    "visual-audit/desktop-1440/farm--buyer-account.png"
   ],
   "pages": [
     {
@@ -211,11 +211,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/auto-parts\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/auto-parts\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/auto-parts — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "auto-parts--seller-panel",
@@ -241,11 +244,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/auto-parts\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/auto-parts\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/auto-parts — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "auto-parts--store",
@@ -254,12 +260,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/auto-parts\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/auto-parts\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/auto-parts--store.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/auto-parts",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -271,11 +277,14 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [],
-      "requestFailures": []
+      "pageErrors": [
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/auto-parts\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/auto-parts\", waiting until \"domcontentloaded\"\n"
+      ],
+      "requestFailures": [
+        "GET https://www.delaemdigital.com/demo/auto-parts — net::ERR_TIMED_OUT"
+      ]
     },
     {
       "state": "b2b-wholesale--buyer-account",
@@ -644,12 +653,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/buyer?store=cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=cars\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/cars--buyer-account.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/buyer?store=cars",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -659,15 +668,16 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n"
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars/manage\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars/manage\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/buyer?store=cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=cars\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT",
+        "GET https://www.delaemdigital.com/demo/cars/manage — net::ERR_TIMED_OUT",
+        "GET https://www.delaemdigital.com/buyer?store=cars — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -677,12 +687,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": 404,
-      "navigationError": null,
+      "status": null,
+      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars/manage\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars/manage\", waiting until \"domcontentloaded\"\n",
       "screenshotPath": "visual-audit/desktop-1440/cars--seller-panel.png",
-      "title": "Страница не найдена | Делаем Диджитал",
-      "finalUrl": "https://delaemdigital.com/demo/cars/manage",
-      "textLength": 123,
+      "title": "",
+      "finalUrl": "chrome-error://chromewebdata/",
+      "textLength": 0,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -692,15 +702,16 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n"
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars/manage\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars/manage\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/buyer?store=cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=cars\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT",
+        "GET https://www.delaemdigital.com/demo/cars/manage — net::ERR_TIMED_OUT",
+        "GET https://www.delaemdigital.com/buyer?store=cars — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -725,15 +736,16 @@
       "cls": 0,
       "layoutShifts": [],
       "nextErrorOverlay": false,
-      "consoleErrors": [
-        "Failed to load resource: the server responded with a status of 404 ()",
-        "Failed to load resource: the server responded with a status of 404 ()"
-      ],
+      "consoleErrors": [],
       "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n"
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/cars/manage\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/cars/manage\", waiting until \"domcontentloaded\"\n",
+        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/buyer?store=cars\nCall log:\n  - navigating to \"https://www.delaemdigital.com/buyer?store=cars\", waiting until \"domcontentloaded\"\n"
       ],
       "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT"
+        "GET https://www.delaemdigital.com/demo/cars — net::ERR_TIMED_OUT",
+        "GET https://www.delaemdigital.com/demo/cars/manage — net::ERR_TIMED_OUT",
+        "GET https://www.delaemdigital.com/buyer?store=cars — net::ERR_TIMED_OUT"
       ]
     },
     {
@@ -1776,15 +1788,11 @@
         }
       ],
       "brokenImages": [],
-      "cls": 0.04843879728340808,
+      "cls": 0.0332920524691358,
       "layoutShifts": [
         {
-          "value": 0.024705193888346355,
-          "time": 1490.5
-        },
-        {
-          "value": 0.02373360339506173,
-          "time": 1516
+          "value": 0.0332920524691358,
+          "time": 1484.7000000000116
         }
       ],
       "nextErrorOverlay": false,
@@ -2356,14 +2364,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "plumbing--seller-panel",
@@ -2389,14 +2394,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "plumbing--store",
@@ -2405,12 +2407,12 @@
         "width": 1440,
         "height": 1000
       },
-      "status": null,
-      "navigationError": "page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n",
+      "status": 404,
+      "navigationError": null,
       "screenshotPath": "visual-audit/desktop-1440/plumbing--store.png",
-      "title": "",
-      "finalUrl": "chrome-error://chromewebdata/",
-      "textLength": 0,
+      "title": "Страница не найдена | Делаем Диджитал",
+      "finalUrl": "https://delaemdigital.com/demo/plumbing",
+      "textLength": 123,
       "viewportWidth": 1440,
       "scrollWidth": 1440,
       "scrollHeight": 1000,
@@ -2422,14 +2424,11 @@
       "nextErrorOverlay": false,
       "consoleErrors": [
         "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()",
         "Failed to load resource: the server responded with a status of 404 ()"
       ],
-      "pageErrors": [
-        "navigation: page.goto: net::ERR_TIMED_OUT at https://www.delaemdigital.com/demo/plumbing\nCall log:\n  - navigating to \"https://www.delaemdigital.com/demo/plumbing\", waiting until \"domcontentloaded\"\n"
-      ],
-      "requestFailures": [
-        "GET https://www.delaemdigital.com/demo/plumbing — net::ERR_TIMED_OUT"
-      ]
+      "pageErrors": [],
+      "requestFailures": []
     },
     {
       "state": "premium-tech--buyer-account",
@@ -4524,11 +4523,11 @@
       "layoutShifts": [
         {
           "value": 0.29107733803523433,
-          "time": 1391.5999999999767
+          "time": 1177.5
         },
         {
           "value": 0.0004082775112176967,
-          "time": 1407.2999999999884
+          "time": 1184
         }
       ],
       "nextErrorOverlay": false,
@@ -5709,8 +5708,8 @@
   ],
   "summary": {
     "captures": 182,
-    "navigationFailures": 4,
-    "statusFailures": 176,
+    "navigationFailures": 6,
+    "statusFailures": 174,
     "horizontalOverflow": 0,
     "brokenImages": 0,
     "browserErrors": 364,
